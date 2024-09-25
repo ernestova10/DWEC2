@@ -20,7 +20,6 @@
 
 **- Evolución lenguajes de programación, ventajas y desventajas**
 1. HTML
-
    **- Ventajas:**
    - Simplicidad: Fácil de aprender y usar.
    - Compatibilidad: Compatible con todos los navegadores web.
