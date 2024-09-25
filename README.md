@@ -58,7 +58,17 @@ Este modelo es fundamental en el desarrollo de una aplicación web. El modelo Cl
    **- Desventajas:**
    - Seguridad: Puede ser vulnerable a ataques como XSS.
    - Rendimiento: Puede afectar el rendimiento si no se optimiza de la manera adecuada.
-     
+
+4. Java
+   **- Ventajas:**
+   - Portabilidad: Se puede ejecutar en cualquier lugar gracias a la JVM.
+   - Madurez: Ecosistema robusto y bien establecido.
+   - Seguridad: Ofrece seguridad avanzada.
+   
+   **- Desventajas:**
+   - Verbosidad: Requiere escribir mucho código para tareas simples.
+   - Rendimiento: Las aplicaciones de escritorio pueden no ser tan rápidas como las nativas.
+   
 **- Bibliografía**
 1. Cliente-servidor
    
@@ -67,3 +77,6 @@ Este modelo es fundamental en el desarrollo de una aplicación web. El modelo Cl
 2. Evolución de lenguajes de programación, ventajas y desventajas.
 
    - [HTML y CSS](https://www.registrodominiosinternet.es/2013/08/lenguajes-programacion-web-ventajas.html)
+   - [JavaScript 1](https://itcwebsolutions.com/desarrollo-y-soporte-web/programacion-y-herramientas/lenguajes-de-programacion/ventajas-y-desventajas-de-los-principales-lenguajes-de-programacion/)
+   - [JavaScript 2](https://blog.hubspot.es/website/ventajas-y-desventajas-de-javascript)
+   - [Java](https://itcwebsolutions.com/desarrollo-y-soporte-web/programacion-y-herramientas/lenguajes-de-programacion/ventajas-y-desventajas-de-los-principales-lenguajes-de-programacion/)
