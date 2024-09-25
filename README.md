@@ -17,4 +17,4 @@
 
 
 **- Bibliografía**
-<br> [Análisis de modelo cliente/servidor] (https://www.arsys.es/blog/todo-sobre-la-arquitectura-cliente-servidor)
+[Análisis de modelo cliente/servidor] (https://www.arsys.es/blog/todo-sobre-la-arquitectura-cliente-servidor)
