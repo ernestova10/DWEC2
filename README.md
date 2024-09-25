@@ -20,13 +20,16 @@
 
 **- Evolución lenguajes de programación, ventajas y desventajas**
 1. HTML
-<br> **- Ventajas:**
+
+   **- Ventajas:**
    - Simplicidad: Fácil de aprender y usar.
    - Compatibilidad: Compatible con todos los navegadores web.
-   - SEO: Facilita la optimización para motores de búsqueda.<br>
-**- Desventajas:**
+   - SEO: Facilita la optimización para motores de búsqueda.
+
+   **- Desventajas:**
    - Estático: No permite la creación de contenido dinámico por sí solo.
    - Limitado: Necesita de otros lenguajes como CSS y JavaScript para mejorar funcionalidades y diseño.
    
-**- Bibliografía** <br>
+**- Bibliografía**
+
 [Análisis de modelo cliente/servidor](https://www.arsys.es/blog/todo-sobre-la-arquitectura-cliente-servidor)
