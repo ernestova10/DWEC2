@@ -13,3 +13,7 @@
 
 3. Objetivo de la arquitectura cliente-servidor
 <br> El objetivo principal de esta arquitectura es realizar la separación de las funciones y responsabilidades del software en distintas capas. Los beneficios de esta separación de responsabilidades son diversos. Entre ellos podemos destacar la posibilidad de escalar o mantener aplicaciones por separado y también la posibilidad de utilizar infraesctructuras distintas y especializadas en cada una de las partes del software.
+
+
+
+**Bibliografía**
