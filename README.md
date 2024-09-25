@@ -23,7 +23,7 @@
 <br> **- Ventajas:**
    - Simplicidad: Fácil de aprender y usar.
    - Compatibilidad: Compatible con todos los navegadores web.
-   - SEO: Facilita la optimización para motores de búsqueda.
+   - SEO: Facilita la optimización para motores de búsqueda.<br>
 **- Desventajas:**
    - Estático: No permite la creación de contenido dinámico por sí solo.
    - Limitado: Necesita de otros lenguajes como CSS y JavaScript para mejorar funcionalidades y diseño.
