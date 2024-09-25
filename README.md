@@ -19,5 +19,8 @@
 <br> **- Inconvenientes:** Requiere el uso de red para funcionar, si el servidor falla, a menudo impacta en los clientes y están expuestos a una red en la cuál puede haber posibilidades de ataques de seguridad.
 
 **- Evolución lenguajes de programación, ventajas y desventajas**
+1. HTML
+   - Ventajas:
+   
 **- Bibliografía** <br>
 [Análisis de modelo cliente/servidor](https://www.arsys.es/blog/todo-sobre-la-arquitectura-cliente-servidor)
