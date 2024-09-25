@@ -62,8 +62,8 @@ Este modelo es fundamental en el desarrollo de una aplicación web. El modelo Cl
 **- Bibliografía**
 1. Cliente-servidor
    
-- [Análisis de modelo cliente/servidor](https://www.arsys.es/blog/todo-sobre-la-arquitectura-cliente-servidor)
+   - [Análisis de modelo cliente/servidor](https://www.arsys.es/blog/todo-sobre-la-arquitectura-cliente-servidor)
 
 2. Evolución de lenguajes de programación, ventajas y desventajas.
 
-- [HTML y CSS](https://www.registrodominiosinternet.es/2013/08/lenguajes-programacion-web-ventajas.html)
+   - [HTML y CSS](https://www.registrodominiosinternet.es/2013/08/lenguajes-programacion-web-ventajas.html)
