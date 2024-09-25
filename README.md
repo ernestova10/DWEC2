@@ -5,3 +5,6 @@
 1. Componentes claves
 <br> **Cliente:** Es la parte que inicia las solicitudes de servicio. En una aplicación web, el cliente es el navegador que envía peticiones HTTP al servidor.
 <br> **Servidor:** Es el componente que proporciona los servicios solicitados por el cliente. Procesa las peticiones y envía una respuesta al cliente.
+
+2.Tipos de arquitecturas
+
