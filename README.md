@@ -20,7 +20,7 @@
 
 **- Evolución lenguajes de programación, ventajas y desventajas**
 1. HTML
-- Ventajas:
+ - Ventajas:
    
 **- Bibliografía** <br>
 [Análisis de modelo cliente/servidor](https://www.arsys.es/blog/todo-sobre-la-arquitectura-cliente-servidor)
