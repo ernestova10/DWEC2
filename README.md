@@ -9,7 +9,7 @@ Este modelo es fundamental en el desarrollo de una aplicación web. El modelo Cl
 
   **- Servidor:** Es el componente que proporciona los servicios solicitados por el cliente. Procesa las peticiones y envía   una respuesta al cliente.
 
-3. Tipos de arquitecturas
+2. Tipos de arquitecturas
 
   **- Modelo de dos capas:** En este modelo, el cliente se comunica directamente con el servidor. Es simple pero puede ser     ineficiente si el número de clientes es muy alto.
 
