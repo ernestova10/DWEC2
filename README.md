@@ -60,6 +60,7 @@ Este modelo es fundamental en el desarrollo de una aplicación web. El modelo Cl
    - Rendimiento: Puede afectar el rendimiento si no se optimiza de la manera adecuada.
 
 4. Java
+   
    **- Ventajas:**
    - Portabilidad: Se puede ejecutar en cualquier lugar gracias a la JVM.
    - Madurez: Ecosistema robusto y bien establecido.
@@ -68,7 +69,27 @@ Este modelo es fundamental en el desarrollo de una aplicación web. El modelo Cl
    **- Desventajas:**
    - Verbosidad: Requiere escribir mucho código para tareas simples.
    - Rendimiento: Las aplicaciones de escritorio pueden no ser tan rápidas como las nativas.
+
+5. Web Scraping (con Python)
    
+   **- Ventajas:**
+   - Automatización: Facilira la extracción de datos de sitios web.
+   - Bibliotecas: Herramientas como BeautifulSoup y Scrapy simplifican el proceso.
+   
+   **- Desventajas:**
+   - Legalidad: Puede haber problemas legales si se realiza sin permiso.
+   - Bloqueos: Los sitios web pueden bloquear los scrapers.
+
+6. SQL
+   
+   **- Ventajas:**
+   - Eficiencia: Ideal para manejar grandes volúmenes de datos.
+   - Estándar: Amplia adopción y soporte en múltiples sistemas de gestión de bases de datos.
+   
+   **- Desventajas:**
+   - Complejidad: Puede ser complejo de aprender para principiantes.
+   - Escabilidad: Puede tener limitaciones en aplicaciones distribuidas.
+
 **- Bibliografía**
 1. Cliente-servidor
    
@@ -80,3 +101,4 @@ Este modelo es fundamental en el desarrollo de una aplicación web. El modelo Cl
    - [JavaScript 1](https://itcwebsolutions.com/desarrollo-y-soporte-web/programacion-y-herramientas/lenguajes-de-programacion/ventajas-y-desventajas-de-los-principales-lenguajes-de-programacion/)
    - [JavaScript 2](https://blog.hubspot.es/website/ventajas-y-desventajas-de-javascript)
    - [Java](https://itcwebsolutions.com/desarrollo-y-soporte-web/programacion-y-herramientas/lenguajes-de-programacion/ventajas-y-desventajas-de-los-principales-lenguajes-de-programacion/)
+   - [Web Scraping](https://proxy-seller.com/es/blog/web_scraping_vs_web_crawling_ventajas_y_desventajas/)
