@@ -40,18 +40,29 @@ Este modelo es fundamental en el desarrollo de una aplicación web. El modelo Cl
    - Limitado: Necesita de otros lenguajes como CSS y JavaScript para mejorar funcionalidades y diseño.
 
 2. CSS
+   
    **- Ventajas:**
    - Estilo y diseño: Permite separar el contenido del diseño, facilitando la creación de páginas web atractivas.
    - Reutilización: Los estilos pueden ser reutilizados en múltiples páginas.
+   
    **- Desventajas:**
    - Compatibilidad: Algunas propiedades pueden no ser compatibles con todos los navegadores.
    - Complejidad: Puede volverse complejo en proyectos grandes sin una buena organización.
 
 3. JavaScript
 
+   **- Ventajas:**
+   - Interactividad: Añade dinamismo e interactividad a las páginas web.
+   - Versatilidad: Utilizable tanto en el lado del cliente como en el servidor.
+   
+   **- Desventajas:**
+   - Seguridad: Puede ser vulnerable a ataques como XSS.
+   - Rendimiento: Puede afectar el rendimiento si no se optimiza de la manera adecuada.
+     
 **- Bibliografía**
 
 [Análisis de modelo cliente/servidor](https://www.arsys.es/blog/todo-sobre-la-arquitectura-cliente-servidor)
 
 Evolución de lenguajes de programación, ventajas y desventajas.
+
 [HTML y CSS](https://www.registrodominiosinternet.es/2013/08/lenguajes-programacion-web-ventajas.html)
