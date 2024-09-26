@@ -97,9 +97,9 @@ La compatibilidad entre navegadores es un aspecto crucial en el desarrollo web, 
 1. Problemas comunes de compatibilidad
 
    - **Validación de HTML y CSS:** Diferentes navegadores pueden interpretar el código HTML y CSS de manera distinta. Un error común puede ser etiquetas no cerradas que hace que dee problemas en algunos navegadores.
-   - Falta de Resets CSS: Los navegadores aplican sus propios estilos por defecto, lo que puede causar inconsistencias  en el diseño.
-   - Errores de DOCTYPE: La ausencia de una declaración DOCTYPE puede hacer que los navegadores más antiguos tenga problemas a la hora de presentar la página.
-   - Problemas con JavaScript: Diferentes motores de JavaScript pueden ejecutar el código de manera distinta, lo que puede causar errores o comportamientos inesperados.
+   - **Falta de Resets CSS:** Los navegadores aplican sus propios estilos por defecto, lo que puede causar inconsistencias  en el diseño.
+   - **Errores de DOCTYPE:** La ausencia de una declaración DOCTYPE puede hacer que los navegadores más antiguos tenga problemas a la hora de presentar la página.
+   - **Problemas con JavaScript:** Diferentes motores de JavaScript pueden ejecutar el código de manera distinta, lo que puede causar errores o comportamientos inesperados.
 
 ### - Bibliografía
 1. Cliente-servidor
