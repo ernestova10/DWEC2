@@ -140,6 +140,15 @@ La integración de lenguajes de marcas, como HTML y XML, con lenguajes de progra
 4. Seguridad
    - Implementar prácticas de seguridad para proteger los datos y prevenir vulnerabilidades comunes, como ataques XSS (Cross-Site Scripting).
 
+### La evaluación de herramientas de programación para clientes web, funciones y ventajas.
+
+1. React
+   - **Funciones:** Biblioteca de JavaScript para construir interfaces de usuario.
+   - **Ventajas:**
+         - Componentes reutilizables.
+         - Virtual DOM para mejorar el rendimiento.
+         - Gran comunidad y ecosistema de herramientas
+     
 ### - Bibliografía
 1. Cliente-servidor
    
