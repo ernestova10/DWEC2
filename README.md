@@ -113,3 +113,7 @@ La compatibilidad entre navegadores es un aspecto crucial en el desarrollo web, 
    - [JavaScript 2](https://blog.hubspot.es/website/ventajas-y-desventajas-de-javascript)
    - [Java](https://itcwebsolutions.com/desarrollo-y-soporte-web/programacion-y-herramientas/lenguajes-de-programacion/ventajas-y-desventajas-de-los-principales-lenguajes-de-programacion/)
    - [Web Scraping](https://proxy-seller.com/es/blog/web_scraping_vs_web_crawling_ventajas_y_desventajas/)
+
+3. Un estudio sobre la compatibilidad en navegadores
+
+   - [Problemas comunes de compatibilidad](https://comparium.app/es/blog/cross-browser-compatibility-issues/)
