@@ -129,6 +129,17 @@ La integración de lenguajes de marcas, como HTML y XML, con lenguajes de progra
    - **Descripción:** JSON es un formato de intercambio de datos ligero y fácil de leer que se utiliza comúnmente en lugar de XML.
    - **Implementación:** JavaScript puede convertir objetos JSON en objetos JavaScript y viceversa.
 
+**Consideraciones para la Elección de Tecnologías**
+
+1. Compatibilidad y Soporte
+   - Asegurarse de que las tecnologías elegidas sean compatibles con los navegadores y dispositivos objetivo es crucial para evitar problemas de compatibilidad.
+2. Rendimiento
+   - Evaluar el impacto en el rendimiento de la aplicación, especialmente en dispositivos móviles y conexiones lentas.
+3. Facilidad de Uso y Mantenimiento
+   - Optar por tecnologías que faciliten el desarrollo y mantenimiento del código, como frameworks y librerías bien documentadas y con una comunidad activa.
+4. Seguridad
+   - Implementar prácticas de seguridad para proteger los datos y prevenir vulnerabilidades comunes, como ataques XSS (Cross-Site Scripting).
+
 ### - Bibliografía
 1. Cliente-servidor
    
