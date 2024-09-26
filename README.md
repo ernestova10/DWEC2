@@ -117,3 +117,5 @@ La compatibilidad entre navegadores es un aspecto crucial en el desarrollo web, 
 3. Un estudio sobre la compatibilidad en navegadores
 
    - [Problemas comunes de compatibilidad](https://comparium.app/es/blog/cross-browser-compatibility-issues/)
+   - [Soluciones](https://guiasopensource.net/herramientas-de-desarrollo/pruebas-compatibilidad-crossbrowser-codigo-abierto-desafios-soluciones/)
+   - [Soluciones2](https://comparium.app/es/blog/cross-browser-compatibility-issues/)
