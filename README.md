@@ -111,8 +111,10 @@ La compatibilidad entre navegadores es un aspecto crucial en el desarrollo web, 
 
 La integración de lenguajes de marcas, como HTML y XML, con lenguajes de programación de clientes web, como JavaScript, es fundamental para el desarrollo de aplicaciones web interactivas y dinámicas.
 
-1. Mecanismo de Integración
-   - **Manipulación del DOM:** El DOM es una representación estructurada del documento HTML o XML que permite a los lenguajes de programación acceder y manipular su contenido y estructura.
+**Mecanismo de integración**
+
+1. Manipulación del DOM
+   - **Descripción:** El DOM es una representación estructurada del documento HTML o XML que permite a los lenguajes de programación acceder y manipular su contenido y estructura.
    - **Implementación:** JavaScript puede interactuar con el DOM para modificar elementos, atributos y estilos en tiempo real.
 
 2. Eventos y Listeners
@@ -145,3 +147,7 @@ La integración de lenguajes de marcas, como HTML y XML, con lenguajes de progra
    - [Problemas comunes de compatibilidad](https://comparium.app/es/blog/cross-browser-compatibility-issues/)
    - [Soluciones](https://guiasopensource.net/herramientas-de-desarrollo/pruebas-compatibilidad-crossbrowser-codigo-abierto-desafios-soluciones/)
    - [Soluciones2](https://comparium.app/es/blog/cross-browser-compatibility-issues/)
+
+4. Un análisis de los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación de clientes web
+
+   - [Mecanismos de integración](https://www.eniun.com/lenguajes-marcas-sistemas-gestion-informacion/)
