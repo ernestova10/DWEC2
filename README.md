@@ -101,6 +101,12 @@ La compatibilidad entre navegadores es un aspecto crucial en el desarrollo web, 
    - **Errores de DOCTYPE:** La ausencia de una declaración DOCTYPE puede hacer que los navegadores más antiguos tenga problemas a la hora de presentar la página.
    - **Problemas con JavaScript:** Diferentes motores de JavaScript pueden ejecutar el código de manera distinta, lo que puede causar errores o comportamientos inesperados.
 
+2. Soluciones
+   - **Herramientas de validación:** Utilizar herramientas como W3C HTML Validator y Jugsaw CSS Validator para asegurar que el código esté libre de errores.
+   - **Hojas de Estilo Reset:** Implementar hojas de estilo como Normalize.css para asegurar una base consistente en todos los navegadores.
+   - **Pruebas automatizadas:** Utilizar herramientas como Selenium y BrowserStack para realizar pruebas automatizadas en múltiples navegadores y dispositivos.
+   - **Diseño Responsivo:** Adoptar frameworks como Bootstrap o Foundation que facilitan la creación de diseños responsivos y compatibles.
+
 ### - Bibliografía
 1. Cliente-servidor
    
