@@ -140,7 +140,7 @@ La integración de lenguajes de marcas, como HTML y XML, con lenguajes de progra
 4. Seguridad
    - Implementar prácticas de seguridad para proteger los datos y prevenir vulnerabilidades comunes, como ataques XSS (Cross-Site Scripting).
 
-### La evaluación de herramientas de programación para clientes web, funciones y ventajas.
+### - La evaluación de herramientas de programación para clientes web, funciones y ventajas.
 
 1. React
    - **Funciones:** Biblioteca de JavaScript para construir interfaces de usuario.
@@ -157,6 +157,11 @@ La integración de lenguajes de marcas, como HTML y XML, con lenguajes de progra
 4. Visual Studio Code
    - **Funciones** Editor de código fuente.
    - **Ventajas:** Extensiones para múltiples lenguajes y herramientas, depuración integrada y soporte para GIT.
+
+5. Git
+   - **Funciones:** Sistema de control de versiones.
+   - **Ventajas:** Seguimiento de cambios en el código, colaboración en equipo, integración con plataformas como GitHub y GitLab.
+
      
 ### - Bibliografía
 1. Cliente-servidor
@@ -180,3 +185,8 @@ La integración de lenguajes de marcas, como HTML y XML, con lenguajes de progra
 4. Un análisis de los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación de clientes web
 
    - [Mecanismos de integración](https://www.eniun.com/lenguajes-marcas-sistemas-gestion-informacion/)
+
+5. La evaluación de herramientas de programación para clientes web, funciones y ventajas.
+
+   - [React, Vue.js, Visual Studio Code, Git](https://tuatara.co/blog/software/herramientas-desarrollo-web/)
+   - [Angular](https://blog.hubspot.es/website/que-es-angular)
