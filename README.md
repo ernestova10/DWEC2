@@ -107,6 +107,8 @@ La compatibilidad entre navegadores es un aspecto crucial en el desarrollo web, 
    - **Pruebas automatizadas:** Utilizar herramientas como Selenium y BrowserStack para realizar pruebas automatizadas en múltiples navegadores y dispositivos.
    - **Diseño Responsivo:** Adoptar frameworks como Bootstrap o Foundation que facilitan la creación de diseños responsivos y compatibles.
 
+### - Un análisis de los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación de clientes web
+
 ### - Bibliografía
 1. Cliente-servidor
    
