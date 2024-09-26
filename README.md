@@ -109,6 +109,24 @@ La compatibilidad entre navegadores es un aspecto crucial en el desarrollo web, 
 
 ### - Un análisis de los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación de clientes web
 
+La integración de lenguajes de marcas, como HTML y XML, con lenguajes de programación de clientes web, como JavaScript, es fundamental para el desarrollo de aplicaciones web interactivas y dinámicas.
+
+1. Mecanismo de Integración
+   - **Manipulación del DOM:** El DOM es una representación estructurada del documento HTML o XML que permite a los lenguajes de programación acceder y manipular su contenido y estructura.
+   - **Implementación:** JavaScript puede interactuar con el DOM para modificar elementos, atributos y estilos en tiempo real.
+
+2. Eventos y Listeners
+   - **Descripción:** Los eventos permiten que los lenguajes de programación respondan a las acciones del usuario, como clics, movimientos del ratón o entradas de teclado.
+   - **Implementación:** JavaScript utiliza listeners para detectar eventos y ejecutar funciones específicas.
+
+3. AJAX
+   - **Descripción:** AJAX permite la actualización de partes de una página web sin recargarla completamente, mejorando la experiencia del usuario.
+   - **Implementación:** Utilizando el objeto XMLHttpRequest o la API Fetch, JavaScript puede enviar y recibir datos de un servidor de manera asíncrona.
+
+4. JSON
+   - **Descripción:** JSON es un formato de intercambio de datos ligero y fácil de leer que se utiliza comúnmente en lugar de XML.
+   - **Implementación:** JavaScript puede convertir objetos JSON en objetos JavaScript y viceversa.
+
 ### - Bibliografía
 1. Cliente-servidor
    
