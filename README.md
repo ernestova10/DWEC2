@@ -1,6 +1,6 @@
 # Aplicación de deportes
 ## Informe técnico
-#### - Análisis de modelo cliente/servidor
+### - Análisis de modelo cliente/servidor
 
 Este modelo es fundamental en el desarrollo de una aplicación web. El modelo Cliente-Servidor es una aquitectura de comunicación en la que el cliente solicita servicios y el servidor proporciona esos servicios que requiere el cliente.
 1. Componentes claves
@@ -27,7 +27,7 @@ Este modelo es fundamental en el desarrollo de una aplicación web. El modelo Cl
 
      **- Inconvenientes:** Requiere el uso de red para funcionar, si el servidor falla, a menudo impacta en los clientes y        están expuestos a una red en la cuál puede haber posibilidades de ataques de seguridad.
 
-#### - Evolución lenguajes de programación, ventajas y desventajas
+### - Evolución lenguajes de programación, ventajas y desventajas
 1. HTML
 
    **- Ventajas:**
@@ -90,7 +90,7 @@ Este modelo es fundamental en el desarrollo de una aplicación web. El modelo Cl
    - Complejidad: Puede ser complejo de aprender para principiantes.
    - Escabilidad: Puede tener limitaciones en aplicaciones distribuidas.
 
-#### - Un estudio sobre la compatibilidad en navegadores
+### - Un estudio sobre la compatibilidad en navegadores
 
 La compatibilidad entre navegadores es un aspecto crucial en el desarrollo web, ya que asegura que una aplicación o sitio web funcione correctamente en diferentes navegadores y dispositivos.
 
@@ -98,7 +98,7 @@ La compatibilidad entre navegadores es un aspecto crucial en el desarrollo web, 
 
    - Validación de HTML y CSS: Diferentes navegadores pueden interpretar el código HTML y CSS de manera distinta. Un error común puede ser etiquetas no cerradas que hace que dee problemas en algunos navegadores. 
 
-#### - Bibliografía
+### - Bibliografía
 1. Cliente-servidor
    
    - [Análisis de modelo cliente/servidor](https://www.arsys.es/blog/todo-sobre-la-arquitectura-cliente-servidor)
