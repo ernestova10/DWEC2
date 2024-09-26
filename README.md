@@ -27,7 +27,7 @@ Este modelo es fundamental en el desarrollo de una aplicación web. El modelo Cl
 
      **- Inconvenientes:** Requiere el uso de red para funcionar, si el servidor falla, a menudo impacta en los clientes y        están expuestos a una red en la cuál puede haber posibilidades de ataques de seguridad.
 
-**- Evolución lenguajes de programación, ventajas y desventajas**
+### - Evolución lenguajes de programación, ventajas y desventajas
 1. HTML
 
    **- Ventajas:**
@@ -90,7 +90,7 @@ Este modelo es fundamental en el desarrollo de una aplicación web. El modelo Cl
    - Complejidad: Puede ser complejo de aprender para principiantes.
    - Escabilidad: Puede tener limitaciones en aplicaciones distribuidas.
 
-**- Bibliografía**
+### - Bibliografía
 1. Cliente-servidor
    
    - [Análisis de modelo cliente/servidor](https://www.arsys.es/blog/todo-sobre-la-arquitectura-cliente-servidor)
