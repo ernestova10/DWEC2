@@ -144,10 +144,19 @@ La integración de lenguajes de marcas, como HTML y XML, con lenguajes de progra
 
 1. React
    - **Funciones:** Biblioteca de JavaScript para construir interfaces de usuario.
-   - **Ventajas:**
-         - Componentes reutilizables.
-         - Virtual DOM para mejorar el rendimiento.
-         - Gran comunidad y ecosistema de herramientas
+   - **Ventajas:** Componentes reutilizables, virtual DOM para mejorar el rendimiento y gran comunidad y ecosistema de herramientas
+
+2. Angular
+   - **Funciones:** Framework de desarrollo web basado en TypeScript.
+   - **Ventajas:** Arquitectura MVC (Modelo-Vista-Controlador), inyección de dependencias y soporte para aplicaciones de una sola página (SPA).
+
+3. Vue.js
+   - **Funciones:** Framework progresivo de JavaScript.
+   - **Ventajas:** Fácil de integrar con otros proyectos, documentación clara y detallada, reactividad y vinculación de datos bidireccional.
+
+4. Visual Studio Code
+   - **Funciones** Editor de código fuente.
+   - **Ventajas:** Extensiones para múltiples lenguajes y herramientas, depuración integrada y soporte para GIT.
      
 ### - Bibliografía
 1. Cliente-servidor
