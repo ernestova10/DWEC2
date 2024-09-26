@@ -90,6 +90,14 @@ Este modelo es fundamental en el desarrollo de una aplicación web. El modelo Cl
    - Complejidad: Puede ser complejo de aprender para principiantes.
    - Escabilidad: Puede tener limitaciones en aplicaciones distribuidas.
 
+#### - Un estudio sobre la compatibilidad en navegadores
+
+La compatibilidad entre navegadores es un aspecto crucial en el desarrollo web, ya que asegura que una aplicación o sitio web funcione correctamente en diferentes navegadores y dispositivos.
+
+1. Problemas comunes de compatibilidad
+
+   - Validación de HTML y CSS: Diferentes navegadores pueden interpretar el código HTML y CSS de manera distinta. Un error común puede ser etiquetas no cerradas que hace que dee problemas en algunos navegadores. 
+
 #### - Bibliografía
 1. Cliente-servidor
    
