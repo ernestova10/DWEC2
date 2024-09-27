@@ -7,6 +7,8 @@
 2. [Evolución lenguajes de programación, ventajas y desventajas](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#--evolución-lenguajes-de-programación-ventajas-y-desventajas)
 3. [Un estudio sobre la compatibilidad en navegadores](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#--un-estudio-sobre-la-compatibilidad-en-navegadores)
 4. [Un análisis de los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación de clientes web](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#--un-an%C3%A1lisis-de-los-mecanismos-de-integraci%C3%B3n-de-los-lenguajes-de-marcas-con-los-lenguajes-de-programaci%C3%B3n-de-clientes-web)
+5. [La evaluación de herramientas de programación para clientes web, funciones y ventajas](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#--la-evaluaci%C3%B3n-de-herramientas-de-programaci%C3%B3n-para-clientes-web-funciones-y-ventajas)
+6. [Bibliografía](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#--bibliograf%C3%ADa)
 
 ### - Análisis de modelo cliente/servidor
 
