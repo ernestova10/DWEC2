@@ -1,10 +1,12 @@
 # Aplicación de deportes
 ## Informe técnico
 
-
 ### Índice
 
-[Análisis de modelo cliente/servidor]()
+1. [Análisis de modelo cliente/servidor](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#--an%C3%A1lisis-de-modelo-clienteservidor)
+2. [Evolución lenguajes de programación, ventajas y desventajas](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#--evolución-lenguajes-de-programación-ventajas-y-desventajas)
+3. [Un estudio sobre la compatibilidad en navegadores](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#--un-estudio-sobre-la-compatibilidad-en-navegadores)
+4. [Un análisis de los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación de clientes web](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#--un-an%C3%A1lisis-de-los-mecanismos-de-integraci%C3%B3n-de-los-lenguajes-de-marcas-con-los-lenguajes-de-programaci%C3%B3n-de-clientes-web)
 
 ### - Análisis de modelo cliente/servidor
 
