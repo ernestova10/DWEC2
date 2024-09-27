@@ -8,7 +8,8 @@
 3. [Un estudio sobre la compatibilidad en navegadores](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#--un-estudio-sobre-la-compatibilidad-en-navegadores)
 4. [Un análisis de los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación de clientes web](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#--un-an%C3%A1lisis-de-los-mecanismos-de-integraci%C3%B3n-de-los-lenguajes-de-marcas-con-los-lenguajes-de-programaci%C3%B3n-de-clientes-web)
 5. [La evaluación de herramientas de programación para clientes web, funciones y ventajas](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#--la-evaluaci%C3%B3n-de-herramientas-de-programaci%C3%B3n-para-clientes-web-funciones-y-ventajas)
-6. [Bibliografía](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#--bibliograf%C3%ADa)
+6. [Análisis de mercado](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#an%C3%A1lisis-de-mercado)
+7. [Bibliografía](https://github.com/ernestova10/DWEC2/tree/main?tab=readme-ov-file#--bibliograf%C3%ADa)
 
 ### - Análisis de modelo cliente/servidor
 
@@ -227,6 +228,7 @@ La integración de lenguajes de marcas, como HTML y XML, con lenguajes de progra
 4. Un análisis de los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación de clientes web
 
    - [Mecanismos de integración](https://www.eniun.com/lenguajes-marcas-sistemas-gestion-informacion/)
+
 
 5. La evaluación de herramientas de programación para clientes web, funciones y ventajas.
 
