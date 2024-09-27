@@ -172,7 +172,25 @@ La integración de lenguajes de marcas, como HTML y XML, con lenguajes de progra
    - **Funciones:** Sistema de control de versiones.
    - **Ventajas:** Seguimiento de cambios en el código, colaboración en equipo, integración con plataformas como GitHub y GitLab.
 
-     
+### Análisis de mercado
+**-Competencia Existente**
+
+1. Besoccer
+   - **Descripción:** Aplicación centrada exclusivamente en el fútbol, ofreciendo noticias, eventos, resultados en directo y estadísticas detalladas.
+   - **Puntos Fuertes:** Cobertura global de ligas y competiciones, actualizaciones en tiempo real, datos exhaustivos sobre equipos y jugadores.
+   - **Áreas de Mejora:** Limitada a fútbol, lo que puede restringir su audiencia.
+
+2. Flashscore
+   - **Descripción:** Ofrece resultados en directo y estadísticas de una amplia variedad de deportes, incluyendo fútbol, baloncesto, tenis, golf, entre otros.
+   - **Puntos Fuertes:** Cobertura de más de 30 deportes, interfaz intuitiva y fácil de usar, notificaciones en tiempo real.
+   - **Áreas de Mejora:** La gran cantidad de información puede ser abrumadora para algunos usuarios.
+
+3. Marca
+   - **Descripción:** Periódico deportivo que ofrece noticias, eventos, horarios e información en directo, principalmente enfocado en el fútbol pero también cubriendo otros deportes.
+   - **Puntos Fuertes:** Reputación y credibilidad, cobertura amplia de múltiples deportes, contenido exclusivo y análisis de expertos.
+   - **Áreas de Mejora:** Interfaz de usuario menos intuitiva comparada con aplicaciones dedicadas exclusivamente a resultados en directo.
+  
+
 ### - Bibliografía
 1. Cliente-servidor
    
