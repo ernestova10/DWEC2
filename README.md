@@ -173,7 +173,7 @@ La integración de lenguajes de marcas, como HTML y XML, con lenguajes de progra
    - **Ventajas:** Seguimiento de cambios en el código, colaboración en equipo, integración con plataformas como GitHub y GitLab.
 
 ### Análisis de mercado
-**-Competencia Existente**
+**- Competencia Existente**
 
 1. Besoccer
    - **Descripción:** Aplicación centrada exclusivamente en el fútbol, ofreciendo noticias, eventos, resultados en directo y estadísticas detalladas.
@@ -190,7 +190,14 @@ La integración de lenguajes de marcas, como HTML y XML, con lenguajes de progra
    - **Puntos Fuertes:** Reputación y credibilidad, cobertura amplia de múltiples deportes, contenido exclusivo y análisis de expertos.
    - **Áreas de Mejora:** Interfaz de usuario menos intuitiva comparada con aplicaciones dedicadas exclusivamente a resultados en directo.
   
+**- Diferenciación y valor añadido**
 
+1. Quinielas y recompensas
+   - Impementar quinielas donde los usuarios puedan predecir resultados y acumular puntos para canjear en regalos.
+
+2. Artículos de Opinión
+   - Publicar artículos de opinión y análisis detallados escritos por expertos en deportes.
+   
 ### - Bibliografía
 1. Cliente-servidor
    
