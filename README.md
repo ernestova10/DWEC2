@@ -197,7 +197,14 @@ La integración de lenguajes de marcas, como HTML y XML, con lenguajes de progra
 
 2. Artículos de Opinión
    - Publicar artículos de opinión y análisis detallados escritos por expertos en deportes.
-   
+
+3. Alertas personalizadas
+   - Ofrecer alertas y noticias personalizadas según los intereses del usuario.
+
+4. Perfil de usuario
+   - Permitir a los usuarios personalizar su perfil con sus equipos y jugadores favoritos, y recibir recomendaciones de contenido basadas en sus preferencias.
+
+
 ### - Bibliografía
 1. Cliente-servidor
    
